@@ -1,4 +1,4 @@
-<img src = "https://github.com/arthnangia/arthnangia/blob/main/Images/arthnangia.jpg" height = 300 width = 100%><img>
+<img src = "https://github.com/arthnangia/arthnangia/blob/main/Images/arthnangia.jpg" width = 100%><img>
 
 - 👋 Hi, I’m @arthnangia
 - 👀 I’m interested in Data analytics
